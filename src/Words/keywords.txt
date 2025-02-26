@@ -1,0 +1,9 @@
+Dividend
+Shareholder
+Price
+Product
+Innovation
+Competitor
+Revenue
+Cost
+Profit
