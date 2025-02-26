@@ -64,3 +64,4 @@ whole.
 These are all the current capabilities of the library. WIth such an open ended task there are so many 
 possibilities, which is why I want to come back to this project in the future. 
 
+Project Members: Samuel Baldwin, Jack Carroll, Jeffery Krapf, Michael Masseide
